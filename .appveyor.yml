@@ -1,4 +1,4 @@
-image: Ubuntu 2004  # образ для сборки
+image: Ubuntu2004  # образ для сборки
 
 stack: jdk 11  # версия JDK
 
